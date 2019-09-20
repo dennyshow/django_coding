@@ -1,1 +1,1 @@
-web: gunicorn django_tostart_wgi:app
+web: gunicorn django_tostart_wsgi:app
