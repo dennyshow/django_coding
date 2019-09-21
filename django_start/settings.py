@@ -26,8 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'ka^%np5-witqw$ug5m$y0z&(wss9bq6!hxq!@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['3e494b11d3ae4fac99c689a0940153b9.vfs.cloud9.us-east-1.amazonaws.com',
-                 'simple-django-tostart.herokuapp.com']
+ALLOWED_HOSTS = ['3e494b11d3ae4fac99c689a0940153b9.vfs.cloud9.us-east-1.amazonaws.com']
 
 
 # Application definition
